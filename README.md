@@ -1,2 +1,2 @@
 # goit-node-cli
-goit-node-cli
+Домашня робота Node.js
